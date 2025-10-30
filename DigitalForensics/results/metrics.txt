@@ -1,0 +1,1 @@
+Transparentnost: PSNR=35.12 dB, SSIM=0.9990      none | NC=0.9983    jpeg50 | NC=0.9945    noise5 | NC=0.9621     blur5 | NC=0.2950 resize0.5 | NC=0.3373      rot2 | NC=0.1726
